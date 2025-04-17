@@ -1,0 +1,24 @@
+{
+  "name": "innerscope-docs",
+  "version": "0.0.1",
+  "description": "A repo containing documentation on the innerscope framework plus a hostable docs app.",
+  "homepage": "https://github.com/oarabilekoore/innerscope-docs#readme",
+  "bugs": {
+    "url": "https://github.com/oarabilekoore/innerscope-docs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oarabilekoore/innerscope-docs.git"
+  },
+  "license": "MIT",
+  "author": "Oarabile Koore",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "innerscope": "^0.1.81",
+    "vite": "^6.3.1"
+  }
+}
